@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veerammalv&label=Profile%20views&color=0e75b6&style=flat" alt="veerammalv" /> </p>
 
-- 🌱 I’m currently learning **Android App Development**
+🌱 I’m currently learning **Android App Development**
 
-- 💬 Ask me about **Android, Kotlin, Java**
+💬 Ask me about **Android, Kotlin, Java**
 
 <p align="left"></p>
 
