@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Android App Development**
 
-💬 Ask me about **Android, Kotlin, Java**
+💬 Ask me about **Android, Kotlin, Java, SQL**
 
 <p align="left"></p>
 
