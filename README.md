@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veerammalv&label=Profile%20views&color=0e75b6&style=flat" alt="veerammalv" /> </p>
 
-🌱 **Android App Developer**
- with a passion for building scalable and user-friendly applications, proficient in Kotlin and Material Design
+👋 Hi there! I'm a Android Developer with a strong foundation in mobile app development and a passion for creating impactful user experiences.
+
+📱 I bring a unique blend of analytical thinking and problem-solving skills to my work in Android development.
+
+🌟 Currently, I'm dedicated to expanding my expertise and contributing to innovative projects that push the boundaries of mobile technology.
 
 💬 Ask me about **Android, Kotlin, Java, SQL**
 
