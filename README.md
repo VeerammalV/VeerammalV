@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veerammalv&label=Profile%20views&color=0e75b6&style=flat" alt="veerammalv" /> </p>
 
-🌱 I’m currently learning **Android App Development**
+🌱 **Android App Developer**
+ with a passion for building scalable and user-friendly applications, proficient in Kotlin and Material Design
 
 💬 Ask me about **Android, Kotlin, Java, SQL**
 
